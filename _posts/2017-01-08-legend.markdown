@@ -9,13 +9,13 @@ categories: html5
   <legend>個人情報</legend>
   <p>
     <label>
-	  名前:</br>
+	  名前:<br>
 	  <input type="text" name="nm">
 	</label>
   </p>
   <p>
     <label>
-	  住所:</br>
+	  住所:<br>
 	  <textarea name="ad" rows="3"></textarea>
 	</label>
   </p>
